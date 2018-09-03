@@ -24,7 +24,7 @@ public class Drawer extends JFrame {
     for (int i = 0; i < solution.colors; i++) {
       palette[i] = Color.getHSBColor((float) i / solution.colors, 1, 1);
     }
-    int margin = 100;
+    int margin = 25;
     int xm = getBounds().width - margin * 2;
     int ym = getBounds().height - margin * 2;
     Random rand = new Random();
