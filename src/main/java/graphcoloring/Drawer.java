@@ -47,7 +47,7 @@ public class Drawer extends JFrame {
 
   @Override
   public void paint(Graphics g) {
-    g.setColor(Color.black);
+    g.setColor(Color.gray);
     for (int v = 0; v < solution.graph.V(); v++) {
       for (int w : solution.graph.adj(v)) {
         g.drawLine(vertexPoints[v].x, vertexPoints[v].y, vertexPoints[w].x, vertexPoints[w].y);
