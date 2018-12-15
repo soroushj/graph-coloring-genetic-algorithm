@@ -4,7 +4,7 @@
   <img src="samples/david.png" alt="Graph Coloring" />
 </p>
 
-Solve the [graph coloring](https://en.wikipedia.org/wiki/Graph_coloring) problem using a [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm). [(Hindi and Yampolskiy 2012)](http://ceur-ws.org/Vol-841/submission_10.pdf)
+Solve the [graph coloring](https://en.wikipedia.org/wiki/Graph_coloring) problem using a [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm). [(Hindi and Yampolskiy, 2012)](http://ceur-ws.org/Vol-841/submission_10.pdf)
 
 ## Build & Run
 
